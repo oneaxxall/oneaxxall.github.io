@@ -1,3 +1,3 @@
-* [Homepage](md/homepage/index.md)
+* [Homepage](md/index.md)
 
 
